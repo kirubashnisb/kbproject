@@ -1,1 +1,2 @@
 # kbproject
+echo"Hi people"
